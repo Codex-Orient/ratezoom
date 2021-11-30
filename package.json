@@ -1,0 +1,16 @@
+{
+    "name": "ratezoom",
+    "version": "1.0.0",
+    "description": "User rating and image zoom feature for ecommerce website",
+    "author": "Codex Orient",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Codex-Orient/ratezoom.git"
+    },
+    "homepage": "https://github.com/osiolabs/heynode#readme",
+    "keywords": [
+      "Rating",
+      "Zoom"
+    ]
+  }
